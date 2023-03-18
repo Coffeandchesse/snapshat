@@ -1,0 +1,42 @@
+
+body {
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    
+}
+
+.contenedor {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(58, 62, 65,);
+}
+.caja-login {
+    background-color: black;
+    border: 1px solid #ccc;
+    width: 400px;
+    height: 380px;
+    margin-top: 4%;
+    margin-left: 498px;
+}
+.encabezado {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+
+
+
+
+
+
